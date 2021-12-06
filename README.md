@@ -1,5 +1,4 @@
 # task-1-jp-morgan
-From 7f02102ccb465bc13fae70218065d3faabeb8fae Mon Sep 17 00:00:00 2001
 From: shokuhatsugi <gmail- joshivarsha1016@gmail.com>
 Date: Tue, 5 May 2020 10:08:13 +0530
 Subject: [PATCH] Create patch file
